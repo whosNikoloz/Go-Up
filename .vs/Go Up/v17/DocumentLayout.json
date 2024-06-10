@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Go Up\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F5C0BA-4268-5516-10B8-6E29E4DF4504}|Assembly-CSharp.csproj|c:\\users\\user\\go up\\assets\\scripts\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F5C0BA-4268-5516-10B8-6E29E4DF4504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F5C0BA-4268-5516-10B8-6E29E4DF4504}|Assembly-CSharp.csproj|c:\\users\\user\\go up\\assets\\scripts\\npcsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F5C0BA-4268-5516-10B8-6E29E4DF4504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npcsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F5C0BA-4268-5516-10B8-6E29E4DF4504}|Assembly-CSharp.csproj|C:\\Users\\User\\Go Up\\assets\\scripts\\nextdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F5C0BA-4268-5516-10B8-6E29E4DF4504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nextdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F5C0BA-4268-5516-10B8-6E29E4DF4504}|Assembly-CSharp.csproj|C:\\Users\\User\\Go Up\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F5C0BA-4268-5516-10B8-6E29E4DF4504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dialog.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Go Up\\Assets\\Scripts\\Dialog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialog.cs",
+              "ToolTip": "C:\\Users\\User\\Go Up\\Assets\\Scripts\\Dialog.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:24:13.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NextDialogue.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Go Up\\Assets\\Scripts\\NextDialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NextDialogue.cs",
+              "ToolTip": "C:\\Users\\User\\Go Up\\Assets\\Scripts\\NextDialogue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NextDialogue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:04:09.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NPCSystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Go Up\\Assets\\Scripts\\NPCSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCSystem.cs",
+              "ToolTip": "C:\\Users\\User\\Go Up\\Assets\\Scripts\\NPCSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:18:37.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PLayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Go Up\\Assets\\Scripts\\PLayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PLayerMovement.cs",
+              "ToolTip": "C:\\Users\\User\\Go Up\\Assets\\Scripts\\PLayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PLayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:52:54.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
